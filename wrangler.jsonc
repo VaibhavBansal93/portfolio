@@ -7,7 +7,7 @@
     "routes": [
         {
             "pattern": "vaibhavb.com",
-            "custom_domain": true
+            "custom_domain":true
         }
-    ],
+    ]
 }
