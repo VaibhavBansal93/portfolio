@@ -1,7 +1,13 @@
 {
-"name": "portfolio",
-"compatibility_date": "2025-05-31",
-"assets": {
-"directory": "./dist"
-}
+    "name": "portfolio",
+    "compatibility_date": "2025-05-31",
+    "assets": {
+        "directory": "./dist"
+    },
+    "routes": [
+        {
+            "pattern": "vaibhavb.com",
+            "custom_domain": true
+        }
+    ],
 }
