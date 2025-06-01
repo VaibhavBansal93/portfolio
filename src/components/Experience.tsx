@@ -2,22 +2,22 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 const experiences = [
   {
-    title: 'Senior Software Engineer',
-    company: 'Tech Corp',
-    period: '2020 - Present',
-    description: 'Led development of microservices architecture, improving system scalability by 300%.',
+    title: 'Software Deveolopment Engineer II',
+    company: 'Microsoft, Windows Cross Device Platform',
+    period: 'April 2025 - Present',
+    description: 'Powering smarter devices with real-time magic using a low-latency context-sharing platform (DCF) over BLE! Crafting cool features for seamless discovery, fast data, and battery-friendly vibes across Android & Windows!',
   },
   {
-    title: 'Software Engineer',
-    company: 'StartupX',
-    period: '2018 - 2020',
-    description: 'Developed and maintained full-stack applications using React and Node.js.',
+    title: 'Software Deveolopment Engineer II',
+    company: 'Lowe\'s India Pvt Ltd - Payments Platform',
+    period: 'June 2024 - March 2025',
+    description: 'Developed a high-throughput, event-driven Checks API to manage payments, SKUs, and private label workflows using Spring Boot and Reactor. Enhanced it with multi-tender support and contract sync with Synchrony, ensuring scalability and smooth orchestration.',
   },
   {
-    title: 'Junior Developer',
-    company: 'DevCo',
-    period: '2016 - 2018',
-    description: 'Contributed to frontend development and implemented responsive designs.',
+    title: 'Associate Software Engineer',
+    company: 'Lowe\'s India Pvt Ltd - Payments Platform',
+    period: 'August 2021 - May 2024',
+    description: 'Spearheaded the shift from IBM DataPower to open-source KONG, unlocking smoother, secure connectivity and faster issue resolution without vendor roadblocks. Built real-time, PCI-compliant data pipelines and helped launch the EzApply API to streamline credit card sign-ups and elevate the self-checkout experience.',
   },
 ];
 
